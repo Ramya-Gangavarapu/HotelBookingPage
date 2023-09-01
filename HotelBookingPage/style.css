@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.Bg {
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png);
+    background-size: cover;
+    height: 100vh;
+    width: 50vw;
+}
+
+.box1 {
+    background-color: #000000e6;
+    color: #ffffff;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 20px;
+    margin-top: 300px;
+    height: 25vh;
+    text-align: center;
+}
+
+.box1 h1 {
+    font-size: 30px;
+    font-family: Bree Serif;
+}
+
+.box1 p {
+    font-family: Roboto;
+    font-weight: normal;
+    font-size: 18px;
+}
+
+.box1 p1 {
+    font-family: Bree Serif;
+    font-size: 25px;
+}
+
+.box2 button {
+    font-family: Roboto;
+    border-radius: 8px;
+    padding-left: 140px;
+    padding: 10px 33px;
+    font-size: 12px;
+    margin-bottom: 10px;
+    margin-left: 60px;
+}
